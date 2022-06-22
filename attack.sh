@@ -1,4 +1,4 @@
-#Bash Script for Hide Phishing URL Created by WaSim Akram
+#Bash Script for Hide Phishing URL Created by ANON_D46KPH4TOM
 
 url_checker() {
     if [ ! "${1//:*}" = http ]; then
